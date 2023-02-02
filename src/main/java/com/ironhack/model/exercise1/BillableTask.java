@@ -1,9 +1,8 @@
-package com.ironhack.model;
+package com.ironhack.model.exercise1;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.PrimaryKeyJoinColumn;
 
-import java.math.BigDecimal;
 import java.time.LocalDate;
 
 @Entity
