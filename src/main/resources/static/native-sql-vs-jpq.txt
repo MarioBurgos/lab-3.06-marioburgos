@@ -1,0 +1,8 @@
+
+List 3 tasks that can be accomplished with native SQL that you cannot do with JPQL.
+-----------------------------------------------------------------------------------
+
+1) Aggregate Functions as AVG(), SUM(), COUNT()
+2) GROUP BY
+3) Filter the results (SELECT user.name, user.status FROM user ...)
+
